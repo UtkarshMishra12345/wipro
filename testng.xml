@@ -4,8 +4,7 @@
   <test thread-count="5" name="Test">
 	  
     <classes>
-      <class name="TestNGinMaven.C2"/>
-      <class name="TestNGinMaven.C1"/>
+      <class name="Pblrunner.java"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
