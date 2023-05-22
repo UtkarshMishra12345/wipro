@@ -11,3 +11,6 @@ import io.cucumber.junit.CucumberOptions;
 public class Pblrunner {
 
 }
+public class Runner extends AbstractTestNGCucumberTests{
+	
+}
